@@ -1,0 +1,16 @@
+<htnl>
+	<head>
+	</head>
+	<body>
+		<div id="body">
+			<div id="center">
+				<div id="own_room">
+					<ul>
+						<li><a href="">My account</a></li>
+						<li><a href="">My Cart</a></li>
+						<li><a href="">Checkout</a></li>
+						<li><a href="">Login</a></li>
+					</ul>
+				</div>
+	</body>
+</html>
