@@ -6,6 +6,7 @@
 			<div id="center">
 				<div id="own_room">
 					<ul>
+						<li><a href="">Ты зачем мой тест стырил?</a></li>				
 						<li><a href="">My account</a></li>
 						<li><a href="">My Cart</a></li>
 						<li><a href="">Checkout</a></li>
