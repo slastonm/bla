@@ -6,6 +6,7 @@
 			<div id="center">
 				<div id="own_room">
 					<ul>
+						<li><a href="">My account1</a></li>
 						<li><a href="">My account</a></li>
 						<li><a href="">My Cart</a></li>
 						<li><a href="">Checkout</a></li>
